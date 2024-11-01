@@ -1,0 +1,11 @@
+---
+title: "Practice stage, commit and push"
+output: html_document
+date: "2024-11-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is my practice edit of a markdown file which I will stage, commit and push to the github repo.
